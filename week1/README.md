@@ -1,0 +1,3 @@
+# Foundations 
+
+python and statistics

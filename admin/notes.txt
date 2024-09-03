@@ -2,3 +2,7 @@ Olympus.mygreatlearning.com
 
 пароль:
 (мой главный язык, первая буква большая)(год)!
+
+Seaborn examples:
+https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html
+https://www.kaggle.com/code/saurav9786/seaborn-tutorial
