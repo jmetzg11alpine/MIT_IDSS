@@ -6,3 +6,19 @@ Olympus.mygreatlearning.com
 Seaborn examples:
 https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html
 https://www.kaggle.com/code/saurav9786/seaborn-tutorial
+
+
+Sakshi - program manager
+mentor - Sushmita Nandia
+
+ananaya shah - underground c, c++, python 
+parth - underground computer science java
+megan - biological engineering c#, r studio пока не работает
+rlshil - undergrad in mechanica engineering 
+umme salma - system engineering 
+luna gutierrez - colombia python, works 
+james - logistics, little programming
+valeriya adnronova - python models, looking for work in upwork
+Ana Gaberiela Ocana - python, r, c++, climate data science 
+Aardra Sakpal - underground 
+John Tennison - construction interested in programming 
