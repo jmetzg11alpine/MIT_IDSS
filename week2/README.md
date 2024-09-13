@@ -32,7 +32,9 @@ Controlled Random Sampling - there are subgroups or strata
 
 the mean of x̄ = μ
 
-the Standard Error = σ / √n (The standard error of x̄), tells how accurately it reflects the true population mean. The true mean will vary by the SE
+the Standard Error = σ / √n (The standard error of x̄), tells how accurately it reflects the true population mean. The true mean will vary by the SE. 
+
+SE is the varitity of the sample mean if we were to take more samples
 
 # Central Limit Theorem
 The sampling distribution of the sample means will approach normal distribution as the sample size gets bigger, no matter what the shape of the population distribution is.
@@ -52,6 +54,18 @@ Point estimation doesn't take into account the distribution, t distibution when 
 
 # Hypothesis Testing 
 
-                 H0 True            H0 False
-reject H0        Type 1, prob = a   Correct Prob = 1 - b     
-fail to reject   Prob = 1 - a       prob = b
+Type 1 error - When we reject the null hypothesis when it is actually true.
+
+Type 2 error - When we fail to reject the null hypothesis when it is actually false.
+
+Level of Significance (type 1 error)= probability of reject the null hypothesis when it is true, fixed before hypothesis test. Does not change
+
+Z = (x̄ - μ) / σ/√n
+
+p-value = probability of seeing these results from the sample data, likelihood of the H0 being True. Changes with the data
+
+Acceptance or Rejection Region = area under the curve 
+
+One-tail = rejection on one side. Ha: μ > 20
+
+Two-tailed = the parameter is not equal. Ha μ != 20
