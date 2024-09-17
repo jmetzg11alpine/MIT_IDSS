@@ -13,7 +13,7 @@ mentor - Sushmita Nandia
 
 ananaya shah - underground c, c++, python 
 parth - underground computer science java
-megan - biological engineering c#, r studio пока не работает
+megan lucente - biological engineering c#, r studio пока не работает
 rlshil - undergrad in mechanica engineering 
 umme salma - system engineering 
 luna gutierrez - colombia python, works 
