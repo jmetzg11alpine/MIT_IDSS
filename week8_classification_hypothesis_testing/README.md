@@ -45,6 +45,7 @@ F1 Score = 2 * (precision * recall) / (precision + recall)
 # Decision Tree 
 - splits happens where there will be a higher information gain lower entropy 
 
-# Random Forest 
+# Ensemble 
 - Bagging = Bootstrap + Aggregation 
 - make smaller datasets from sampling with replacement. Build models from that and then take the average of those models from the final prediction. As long as the average error rate of the esembled models is less than 50% then it will perform better than one model trained on all the data. 
+- Random Forest is like Bagging but we're also sampling the features for each tree
